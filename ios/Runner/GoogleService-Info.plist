@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>474512237544-93naprfg20jebe2ig3hah1ss5i1st1ed.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.474512237544-93naprfg20jebe2ig3hah1ss5i1st1ed</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>474512237544-mhf275kp5ittnn1bth6uetgjmb3em90h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJbiuCDya5eejNj75Di8uN-EOL8_5mFoA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>474512237544</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>asia.executionlab.flutterTwitchClone</string>
+	<key>PROJECT_ID</key>
+	<string>twitch-clone-app-9fdad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twitch-clone-app-9fdad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:474512237544:ios:848409b771e635f0097a5d</string>
+</dict>
+</plist>

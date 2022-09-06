@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "23923310522",
+    "project_id": "fir-demo-8bb64",
+    "storage_bucket": "fir-demo-8bb64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23923310522:android:50c23593dd08fa8d71e783",
+        "android_client_info": {
+          "package_name": "asia.executionlab.demo_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23923310522-e1568qqeik0ku11rtnqkan3foiviq96i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI7kfWYUwDHQwVSsgR9uO7emvk2YdRqEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23923310522-e1568qqeik0ku11rtnqkan3foiviq96i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23923310522:android:945b0aa9e4c8ff7a71e783",
+        "android_client_info": {
+          "package_name": "asia.executionlab.flutter_twitch_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "23923310522-e1568qqeik0ku11rtnqkan3foiviq96i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI7kfWYUwDHQwVSsgR9uO7emvk2YdRqEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "23923310522-e1568qqeik0ku11rtnqkan3foiviq96i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
